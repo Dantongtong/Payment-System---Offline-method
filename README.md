@@ -4,6 +4,8 @@ A **runnable** implementation of the design diagram. It models the Payment
 Server, Bank Provider, Kafka, Payment DB, Ledger DB and the Settlement Process
 with in-memory mock data — no external middleware required. `pip install` and run.
 
+![1782104071440](images/README/1782104071440.png)
+
 ## Design diagram → code
 
 
